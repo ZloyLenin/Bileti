@@ -1,0 +1,5 @@
+print("Введите числа A,B,C:")
+A = int(input())
+B = int(input())
+C = int(input())
+print("Максимальное число: ", max(A,B,C)," \nМинимальное число: ", min(A,B,C))
